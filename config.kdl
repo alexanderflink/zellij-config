@@ -96,3 +96,4 @@ themes {
 }
 
 theme "duskfox"
+pane_frames false
